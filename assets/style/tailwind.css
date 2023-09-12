@@ -2,6 +2,9 @@
 @tailwind components;
 @tailwind utilities;
 
-body {
-    background-color: #efefef;
+html, body{
+    height: 100%;
+}
+#__nuxt{
+    height: 100%;
 }
